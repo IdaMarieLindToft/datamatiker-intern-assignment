@@ -11,8 +11,9 @@ Figma link: https://www.figma.com/file/5nLXLBzk4FPdfMRzsqmssK/Datamatiker-Intern
 Du skal udvikle så det er responsive i mobil, tablet og desktop view med tailwindCSS.
 Et godt råd er at udvikle mobile first og at starte med at kigge i tailwind.config filen, hvor vi allerede har sat pre-defineret styles ind som Dreamplan bruger.
 
-### 1. Du skal udvikle de to sider du finder på figma linket.
-Start med at oprette to pages under "src/pages" og prøv dig frem med at udvikle siderne.
+### 1. Udvikle Q&A og Overblik 
+Du skal udvikle de to sider "Q&A" og "Overblik" du finder på figma linket i introen.
+Start med at oprette to pages under "src/pages" og prøv dig frem med at udvikle siderne gerne med standard komponenter som skal genbruges for at holde din koed dry.
 
 ### 2. Du skal udvikle en header, som er gennemgående på begge sider.
 
